@@ -7,8 +7,8 @@ Betreiber
 Christian Rödel
 Kriegerstr. 8d
 82110 Germering
-E-Mail: webmaster<at>upfing.de
-Tel.: 089 / 74160301
+E-Mail: webmaster\<at>upfing.de
+Tel.: +49 89 74160301
 </pre>
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Christian Rödel
