@@ -4,7 +4,7 @@ Mit der Nutzung dieses Internetangebots erklären Sie sich mit nachfolgenden Nut
 
 ## Pflichten registrierter Nutzer
 
-Der Nutzer hat dafür Sorge zu tragen, dass sein Mitgliedskonto nur von ihm selbst genutzt wird und muss zu diesem Zweck sein Passwort/seine ID geheim halten.
+Der Nutzer hat dafür Sorge zu tragen, dass sein Mitgliedskonto bei GitHub nur von ihm selbst genutzt wird und muss zu diesem Zweck sein Passwort/seine ID geheim halten.
 
 Der Nutzer erkennt an, dass der Inhaber des Mitgliedskontos für alle Aktivitäten, die über dasselbe ausgeübt werden, verantwortlich ist. Dies gilt insbesondere für den Fall, dass das Mitgliedskonto von einem Dritten, z.B. einem Minderjährigen ohne Zustimmung seines Erziehungsberechtigten oder einem missbräuchlichen Nutzer, genutzt wird.
 
