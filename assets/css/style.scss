@@ -270,9 +270,9 @@ a:hover { text-decoration: underline; }
 
 .page-header { color: #fff; text-align: center; background-image: url("{{ site.github.url }}/images/header.jpg"); background-size: cover; }
 
-@media screen and (min-width: 64em) { .page-header { padding: 1.2rem 1rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 1.1rem 1rem; } }
-@media screen and (max-width: 42em) { .page-header { padding: 1rem 1rem; } }
+@media screen and (min-width: 64em) { .page-header { padding: 0.5rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 0.4rem 1rem; } }
+@media screen and (max-width: 42em) { .page-header { padding: 0.3rem 1rem; } }
 
 .project-name { margin-top: 0; margin-bottom: 0.1rem; font-family: "Comic Sans MS", cursive, sans-serif; }
 @media screen and (min-width: 64em) { .project-name { font-size: 2.5rem; } }
@@ -280,9 +280,9 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }
 
 .project-tagline { margin-bottom: 1rem; font-weight: normal; opacity: 0.7; }
-@media screen and (min-width: 64em) { .project-tagline { font-size: 1.2rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.1rem; } }
-@media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
+@media screen and (min-width: 64em) { .project-tagline { font-size: 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 0.9rem; } }
+@media screen and (max-width: 42em) { .project-tagline { font-size: 0.8rem; } }
 
 .main-content { word-wrap: break-word; }
 .main-content :first-child { margin-top: 0; }
