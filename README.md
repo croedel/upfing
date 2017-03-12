@@ -13,4 +13,11 @@ Nähere Infos zu unserer Stadt findet ihr hier:
 * [Homepage der Stadt Germering](http://www.germering.de)
 * [Germering auf Wikipedia](http://de.wikipedia.org/wiki/germering)
   
-  
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>  
