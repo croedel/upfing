@@ -7,7 +7,6 @@ Upfing.de ist eine privat betriebene, nicht kommerzielle Plattform für Autoren 
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
