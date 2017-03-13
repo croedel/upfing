@@ -291,7 +291,7 @@ a:hover { text-decoration: underline; }
 
 .main-content { word-wrap: break-word; }
 .main-content :first-child { margin-top: 0; }
-@media screen and (min-width: 64em) { .main-content { max-width: 80rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1rem; } }
+@media screen and (min-width: 64em) { .main-content { max-width: 80rem; padding: 2rem 2rem 2rem 0rem; margin: 0 auto; font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 0.95rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 0.9rem; } }
 .main-content img { max-width: 100%; }
@@ -333,4 +333,4 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .site-footer-links { font-size: 0.8rem; } }
  
 .menu-links { color: #819198; margin-left: 0rem; margin-right: 1.5rem; }
-.clearfix { max-width: 20rem; padding: 2rem 6rem; margin: 1 auto; font-size: 1rem; }
+.clearfix { max-width: 30rem; padding: 1rem 1rem; margin: 1 auto; font-size: 1rem; float: left; }
