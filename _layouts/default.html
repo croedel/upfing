@@ -12,23 +12,9 @@
     <section class="page-header">
       <h1 class="project-name">upfing.de</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
       <a href="{{ site.github.url }}" class="project-links">HOME</a>
     </section>
-
-    <!-- Navigation -->
-    <nav id="menu" class="clearfix">
-        <ul>
-            <li><a href="#" class="menu-links">Home</a></li>
-            <li><a href="#" class="menu-links">Portfolio</a></li>
-            <li><a href="#" class="menu-links">About</a></li>
-            <li><a href="#" class="menu-links">Contact</a></li>
-        </ul>
-    </nav> 
-    
+   
     <section class="main-content">
       {{ content }}
 
@@ -41,6 +27,16 @@
         </span>
       </footer>
     </section>
+    
+    <!-- Navigation -->
+    <nav id="rightcol" class="clearfix">
+        <ul>
+            <li><a href="#" class="menu-links">Home</a></li>
+            <li><a href="#" class="menu-links">Portfolio</a></li>
+            <li><a href="#" class="menu-links">About</a></li>
+            <li><a href="#" class="menu-links">Contact</a></li>
+        </ul>
+    </nav> 
 
     {% if site.google_analytics %}
       <script type="text/javascript">
