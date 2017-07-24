@@ -1,6 +1,6 @@
 # Private Zone
 
-Dieser Bereich enthält Links auf private Links der Familie Rödel. 
+Dieser Bereich enthält Links auf private Bereiche der Familie Rödel. 
 
 ## cloud.upfing.de
 * [Fotos anschauen und herunterladen](https://cloud.upfing.de/photo/)
