@@ -1,6 +1,6 @@
 # Willkommen auf upfing.de!
 
-Upfing.de ist eine privat betriebene, nicht kommerzielle Plattform für Autoren von Jung bis Alt, die Interessantes aus oder für der Region Germering zu berichten haben. Mehr über upfing.de findet ihr [hier](about.md)
+Upfing.de ist eine privat betriebene, nicht kommerzielle Plattform, die Interessantes aus oder für die Region Germering berichtet. Mehr über upfing.de findet ihr [hier](about.md)
 
 ## Posts
 <ul>
