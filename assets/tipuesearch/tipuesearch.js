@@ -17,7 +17,7 @@ http://www.tipue.com/search
           'contextBuffer'          : 60,
           'contextLength'          : 60,
           'contextStart'           : 90,
-          'debug'                  : true,
+          'debug'                  : false,
           'descriptiveWords'       : 25,
           'highlightTerms'         : true,
           'liveContent'            : '*',
