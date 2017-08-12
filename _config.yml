@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
 mysitetitle: upfing.de
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+files: [search.html]
