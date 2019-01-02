@@ -32,7 +32,8 @@
     
     <section class="main-content">
       {{ content }}
-
+      {% include lightbox.html %}
+      
       <footer class="site-footer">
         <span class="site-footer-credits"> 
           <a href="{{ site.github.url }}" class="site-footer-links">(c) 2018-2019 upfing.de</a> 
@@ -42,7 +43,6 @@
         </span>
       </footer>
     </section>
-  <script src="/js/jquery.min.js"></script>
-  {% include lightbox.html %}  
+   
   </body>
 </html>
