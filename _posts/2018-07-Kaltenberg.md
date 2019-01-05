@@ -1,6 +1,6 @@
 ---
 title: "Ritterturnier Schloss Kaltenberg"
-categories: Photo
+categories: Photos
 ---
 
 # Kaltenberger Ritterturnier
