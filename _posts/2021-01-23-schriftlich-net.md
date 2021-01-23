@@ -1,5 +1,5 @@
 ---
-title: "schriftlich.net"
+title: "schriftlich.net - neuer Blog mit vielfältigen Inhalten"
 categories: Blog
 ---
 
